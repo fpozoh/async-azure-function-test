@@ -1,2 +1,47 @@
-SyncPICA/obj/Debug/net8.0/SyncPICA.AssemblyInfo.cs
-SyncPICA/obj/Debug/net8.0/SyncPICA.AssemblyInfo.cs
+##############################
+# Visual Studio artifacts
+##############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+##############################
+# Editor tooling
+##############################
+.idea/
+.vscode/
+
+##############################
+# Build outputs (project lives in SyncPICA/)
+##############################
+bin/
+obj/
+SyncPICA/bin/
+SyncPICA/obj/
+SyncPICA/**/bin/
+SyncPICA/**/obj/
+
+##############################
+# Azure Functions local settings & caches
+##############################
+local.settings.json
+SyncPICA/local.settings.json
+SyncPICA/Properties/ServiceDependencies/
+SyncPICA/Properties/serviceDependencies.json
+SyncPICA/Properties/launchSettings.json
+
+##############################
+# Packages & logs
+##############################
+*.nupkg
+*.snupkg
+*.log
+
+##############################
+# OS-generated files
+##############################
+Thumbs.db
+ehthumbs.db
+*.DS_Store
