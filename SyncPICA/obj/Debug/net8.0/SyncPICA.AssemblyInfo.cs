@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncPICA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f6b45a28369da8ce069c92f782836d70b46826")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+232d77e97954909fa780bbc670e9c830b298d90c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncPICA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncPICA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
